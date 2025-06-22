@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-   <a href = "mailto:cmp.1a.rhoanbarioni" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"></a>
+   <!--<a href = "mailto:cmp.1a." target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"></a>-->
   <a href="https://www.linkedin.com/in/rhoanbarioni/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" target="_blank"/>
   </a>
