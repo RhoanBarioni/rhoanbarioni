@@ -1,6 +1,6 @@
 <h1 align="left">Olá, meu nome é Rhoan.</h1>
 
-<h3 align="left">Atualmente, o meu foco é entrar como desenvolvedor Front-End.<br><br>  - Estudando JavaScript e Java<br>  - Uma pessoa que ama programar e assistir animes nas horas vagas</h3>
+<h3 align="left">Atualmente, o meu foco é entrar como Desenvolvedor Web.<br><br>  - Estudando JavaScript e Java<br>  - Uma pessoa que ama programar e assistir animes nas horas vagas</h3>
 
 <br>
 
