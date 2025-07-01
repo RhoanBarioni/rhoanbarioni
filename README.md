@@ -5,7 +5,7 @@
 <br><br>
 
 <div align="center">
-  <a href="https://github.com/LucasBXavier">
+  <a href="https://github.com/RhoanBarioni">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rhoanbarioni&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117" alt="Rhoan Barioni github stats" /> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhoanbarioni&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
 </div>
