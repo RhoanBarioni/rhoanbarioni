@@ -30,7 +30,7 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 -->
-![HTML, CSS, JS, GIT, GITHUB, SCSS](https://skillicons.dev/icons?i=html,css,js,git,github,scss)
+![HTML, CSS, JS, SCSS, GIT, GITHUB](https://skillicons.dev/icons?i=html,css,scss,js,git,github)
 
 
 ### Studying in this moment:
