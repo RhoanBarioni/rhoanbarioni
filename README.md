@@ -33,7 +33,7 @@
   -->
 
   <h3 style="font-weight:600;"> Main skills:<br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,git,github"><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,git,github,react"><br><br>
 
   <h3 style="font-weight:600;"> Studying in this moment:<br><br>
   <img src="https://skillicons.dev/icons?i=js">
