@@ -46,9 +46,15 @@ Experiência com **JavaScript** no desenvolvimento web e estudos em **Java** par
 
 ---
 
-### Projeto
-**AcadMap**  
-https://rhoanbarioni.github.io/AcadMap/
+### Projetos
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [🗺️ AcadMap](https://rhoanbarioni.github.io/AcadMap/) | Aplicação web para visualização e organização de informações acadêmicas | React, Vite, JavaScript, HTML, SCSS |
+| [🏗️ ROYAL](https://royalconstru.com.br/) | Site institucional desenvolvido para empresa de construção civil | HTML, SCSS, JavaScript |
+| [📜 LGPD_Facul](https://rhoanbarioni.github.io/LGPD_Facul/) | Página informativa sobre a LGPD desenvolvida como projeto acadêmico | HTML, SCSS, JavaScript |
+
+
 
 ---
 
