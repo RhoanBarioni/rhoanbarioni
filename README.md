@@ -38,14 +38,6 @@ Experiência com **JavaScript** no desenvolvimento web e estudos em **Java** par
 
 ---
 
-<div align="center">
-  <a href="https://github.com/RhoanBarioni">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=rhoanbarioni&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117" alt="Rhoan Barioni github stats" /> 
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhoanbarioni&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
----
-
 ### Projetos
 
 | Projeto | Descrição | Tecnologias |
@@ -54,9 +46,16 @@ Experiência com **JavaScript** no desenvolvimento web e estudos em **Java** par
 | [🏗️ ROYAL](https://royalconstru.com.br/) | Site institucional desenvolvido para empresa de construção civil | HTML, SCSS, JavaScript |
 | [📜 LGPD_Facul](https://rhoanbarioni.github.io/LGPD_Facul/) | Página informativa sobre a LGPD desenvolvida como projeto acadêmico | HTML, SCSS, JavaScript |
 
+---
 
+<div align="center">
+  <a href="https://github.com/RhoanBarioni">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=rhoanbarioni&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117" alt="Rhoan Barioni github stats" /> 
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhoanbarioni&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
 ---
 
 ### Contato
-- LinkedIn: https://www.linkedin.com/in/rhoanbarioni/
+- [Portfólio](https://github.com/RhoanBarioni)
+- [LinkedIn](https://www.linkedin.com/in/rhoanbarioni/)
