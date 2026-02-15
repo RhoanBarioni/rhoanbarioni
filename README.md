@@ -48,6 +48,7 @@ Experiência com **JavaScript** no desenvolvimento web e estudos em **Java** par
 
 ---
 
+
 <div align="center">
   <!-- Stats Card -->
   <picture>
