@@ -49,9 +49,19 @@ Experiência com **JavaScript** no desenvolvimento web e estudos em **Java** par
 ---
 
 <div align="center">
-  <a href="https://github.com/rhoanbarioni">
-  <img height="160em" src=""/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBXavier&layout=compact&langs_count=7&theme=tokyonight"/>
+  <!-- Stats Card -->
+  <picture>
+    <source srcset="./profile/stats-dark.svg" media="(prefers-color-scheme: dark)">
+    <source srcset="./profile/stats-light.svg" media="(prefers-color-scheme: light)">
+    <img height="170em" src="./profile/stats-light.svg"/>
+  </picture>
+
+  <!-- Top Languages Card -->
+  <picture>
+    <source srcset="./profile/top-langs-dark.svg" media="(prefers-color-scheme: dark)">
+    <source srcset="./profile/top-langs-light.svg" media="(prefers-color-scheme: light)">
+    <img height="170em" src="./profile/top-langs-light.svg"/>
+  </picture>
 </div>
 
 ---
