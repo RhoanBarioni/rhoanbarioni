@@ -8,7 +8,7 @@
 
 ### Sobre
 Desenvolvedor em formação com foco em me tornar **Full Stack**.  
-Experiência com **JavaScript** no desenvolvimento web e estudos em **Java** para back-end.
+Experiência com **JavaScript** no desenvolvimento web e estudos em **Go** para back-end. Atualmente estudando **Java**, **GoLang**, **Docker** e utilizando **Linux** como ambiente principal.
 
 ---
 
@@ -16,7 +16,7 @@ Experiência com **JavaScript** no desenvolvimento web e estudos em **Java** par
 
 **Estudando**
 <br>
-<img src="https://skillicons.dev/icons?i=js,java" />
+<img src="https://skillicons.dev/icons?i=js,java,golang,docker" />
 
 <br>
 
@@ -28,13 +28,13 @@ Experiência com **JavaScript** no desenvolvimento web e estudos em **Java** par
 
 **Backend**
 <br>
-<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=java,golang" />
 
 <br>
 
 **Ferramentas**
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
 
 ---
 
@@ -47,7 +47,6 @@ Experiência com **JavaScript** no desenvolvimento web e estudos em **Java** par
 | [📜 LGPD_Facul](https://rhoanbarioni.github.io/LGPD_Facul/) | Página informativa sobre a LGPD desenvolvida como projeto acadêmico | HTML, SCSS, JavaScript |
 
 ---
-
 
 <div align="center">
   <!-- Stats Card -->
@@ -68,5 +67,7 @@ Experiência com **JavaScript** no desenvolvimento web e estudos em **Java** par
 ---
 
 ### Contato
-- [Portfólio](https://github.com/RhoanBarioni)
-- [LinkedIn](https://www.linkedin.com/in/rhoanbarioni/)
+<div align="center">
+  <a href="https://github.com/RhoanBarioni" style="margin-right: 30px;">Portfólio</a>
+  <a href="https://www.linkedin.com/in/rhoanbarioni/">LinkedIn</a>
+</div>
