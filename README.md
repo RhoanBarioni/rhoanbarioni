@@ -66,8 +66,8 @@ Experiência com **JavaScript** no desenvolvimento web e estudos em **Go** para 
 
 ---
 
-### Contato
 <div align="center">
+<h3>Contato</h3>
   <a href="https://github.com/RhoanBarioni" style="margin-right: 30px;">Portfólio</a>
   <a href="https://www.linkedin.com/in/rhoanbarioni/">LinkedIn</a>
 </div>
