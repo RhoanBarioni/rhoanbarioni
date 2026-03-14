@@ -68,5 +68,9 @@ Experiência com **JavaScript** no desenvolvimento web e estudos em **Go** para 
 
 <div align="center">
   <h3>Contato</h3>
-  <a href="https://github.com/RhoanBarioni"><img src="https://cdn.simpleicons.org/github/white" width="40" style="background:black;border-radius:50%;padding:6px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/rhoanbarioni/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"></a>
+  <a href="https://github.com/RhoanBarioni"><img src="https://cdn.simpleicons.org/github/white" width="40" style="background:black;border-radius:50%;padding:6px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/RhoanBarioni">
+    <img src="https://cdn.simpleicons.org/aboutdotme/white"
+    width="40"
+    style="background:black;border-radius:50%;padding:6px;">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/rhoanbarioni/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"></a>
 </div>
