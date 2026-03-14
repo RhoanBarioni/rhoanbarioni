@@ -4,6 +4,10 @@
   Desenvolvedor em formação • Estudante de Ciência da Computação
 </p>
 
+<!-- <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=3A8BFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;JavaScript+%7C+Go+%7C+Java" />
+</p> -->
+
 ---
 
 ### Sobre
@@ -70,3 +74,17 @@ Experiência com **JavaScript** no desenvolvimento web e estudos em **Go** para 
   <h3>Contato</h3>
   <a href="https://github.com/RhoanBarioni"><img src="https://cdn.simpleicons.org/github/white" width="40" style="background:black;border-radius:50%;padding:6px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/RhoanBarioni"><img src="https://cdn.simpleicons.org/aboutdotme/white" width="40" style="background:black;border-radius:50%;padding:6px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/rhoanbarioni/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"></a>
 </div>
+<br>
+
+---
+
+<br>
+<p align="center">
+  <picture>
+    <source srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-light.svg" media="(prefers-color-scheme: light)">
+    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-light.svg" alt="GitHub Contribution Snake">
+  </picture>
+</p>
+
+<!-- <img src="https://streak-stats.demolab.com?user=RhoanBarioni&theme=github-dark"/> -->
