@@ -1,28 +1,33 @@
-name: snake
+name: generate snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # roda todo dia
   workflow_dispatch:
+
+permissions:
+  contents: write # 🔥 ESSENCIAL pra conseguir dar push
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: checkout
+      - name: checkout repository
         uses: actions/checkout@v4
 
-      - name: generate snake
-        run: |
-          npx github-snake-cli \
-            --user SEU_USUARIO \
-            --output dist/snake.svg
+      - name: generate snake svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: RhoanBarioni
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: push
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add dist/snake.svg
-          git commit -m "update snake" || echo "no changes"
-          git push
+      - name: push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
