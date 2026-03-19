@@ -70,10 +70,17 @@ Experiência com **JavaScript** no desenvolvimento web e estudos em **Go** para 
 
 ---
 
-<div align="center">
+### Contato
+
+- GitHub: https://github.com/RhoanBarioni  
+- LinkedIn: https://www.linkedin.com/in/rhoanbarioni/  
+
+Aberto a oportunidades, colaboração e networking.
+
+<!-- <div align="center">
   <h3>Contato</h3>
   <a href="https://github.com/RhoanBarioni"><img src="https://cdn.simpleicons.org/github/white" width="40" style="background:black;border-radius:50%;padding:6px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/RhoanBarioni"><img src="https://cdn.simpleicons.org/aboutdotme/white" width="40" style="background:black;border-radius:50%;padding:6px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/rhoanbarioni/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"></a>
-</div>
+</div> -->
 <br>
 
 ---
@@ -81,9 +88,9 @@ Experiência com **JavaScript** no desenvolvimento web e estudos em **Go** para 
 <br>
 <p align="center">
   <picture>
-    <source srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-light.svg" media="(prefers-color-scheme: light)">
-    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-light.svg" alt="GitHub Contribution Snake">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RhoanBarioni/RhoanBarioni/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RhoanBarioni/RhoanBarioni/output/github-contribution-grid-snake.svg" />
+    <img alt="github snake" src="https://raw.githubusercontent.com/RhoanBarioni/RhoanBarioni/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
