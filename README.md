@@ -20,7 +20,7 @@ Experiência com **JavaScript** no desenvolvimento web e estudos em **Go** para 
 
 **Estudando**
 <br>
-<img src="https://skillicons.dev/icons?i=js,java,golang,docker" />
+<img src="https://skillicons.dev/icons?i=js,java,golang,docker,mysql" />
 
 <br>
 
@@ -33,6 +33,12 @@ Experiência com **JavaScript** no desenvolvimento web e estudos em **Go** para 
 **Backend**
 <br>
 <img src="https://skillicons.dev/icons?i=java,golang" />
+
+<br>
+
+**Banco de Dados**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 <br>
 
