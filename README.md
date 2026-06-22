@@ -20,7 +20,7 @@ Experiência com **JavaScript** no desenvolvimento web e estudos em **Go** para 
 
 **Estudando**
 <br>
-<img src="https://skillicons.dev/icons?i=js,java,golang,docker,mysql" />
+<img src="https://skillicons.dev/icons?i=js,java,golang,docker" />
 
 <br>
 
@@ -44,7 +44,7 @@ Experiência com **JavaScript** no desenvolvimento web e estudos em **Go** para 
 
 **Ferramentas**
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman" />
 
 ---
 
