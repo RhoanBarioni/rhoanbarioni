@@ -2,19 +2,20 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 3 * * *"  # todo dia às 3h UTC
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
-  permissions:
+permissions:
   contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
         with:
-        persist-credentials: true
+          persist-credentials: true
 
       # ----------------------------
       # Stats Card - Light
