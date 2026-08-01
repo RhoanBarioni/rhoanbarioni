@@ -9,13 +9,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    steps:
-      - uses: actions/checkout@v4
+    permissions:
+      contents: write
 
-      # ----------------------------
+    steps:
+      - uses: actions/checkout@v6
+
       # Stats Card - Light
       - name: Generate stats card - light
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=default&text_color=434d58&title_color=2f80ed
@@ -24,36 +26,35 @@ jobs:
 
       # Stats Card - Dark
       - name: Generate stats card - dark
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&text_color=ffffff&title_color=ffffff&bg_color=00000000
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&bg_color=00000000&title_color=ffffff&text_color=ffffff
           path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Top Languages Card - Light
+      # Top Languages - Light
       - name: Generate top-langs card - light
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=7&theme=default&text_color=434d58&title_color=2f80ed
           path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Top Languages Card - Dark
+      # Top Languages - Dark
       - name: Generate top-langs card - dark
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=7&theme=dark&text_color=ffffff&title_color=ffffff&bg_color=00000000
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=7&theme=dark&bg_color=00000000&title_color=ffffff&text_color=ffffff
           path: profile/top-langs-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Commit cards
       - name: Commit cards
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push

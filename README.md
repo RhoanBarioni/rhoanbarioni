@@ -60,18 +60,17 @@ Experiência com **JavaScript** no desenvolvimento web e estudos em **Go** para 
 
 <div align="center">
   <!-- Stats Card -->
-  <picture>
-    <source srcset="./profile/stats-dark.svg" media="(prefers-color-scheme: dark)">
-    <source srcset="./profile/stats-light.svg" media="(prefers-color-scheme: light)">
-    <img height="170em" src="./profile/stats-light.svg"/>
-  </picture>
+<picture>
+  <source srcset="./profile/stats-dark.svg" media="(prefers-color-scheme: dark)">
+  <source srcset="./profile/stats-light.svg" media="(prefers-color-scheme: light)">
+  <img height="170em" src="./profile/stats-light.svg"/>
+</picture>
 
-  <!-- Top Languages Card -->
-  <picture>
-    <source srcset="./profile/top-langs-dark.svg" media="(prefers-color-scheme: dark)">
-    <source srcset="./profile/top-langs-light.svg" media="(prefers-color-scheme: light)">
-    <img height="170em" src="./profile/top-langs-light.svg"/>
-  </picture>
+<picture>
+  <source srcset="./profile/top-langs-dark.svg" media="(prefers-color-scheme: dark)">
+  <source srcset="./profile/top-langs-light.svg" media="(prefers-color-scheme: light)">
+  <img height="170em" src="./profile/top-langs-light.svg"/>
+</picture>
 </div>
 
 ---
